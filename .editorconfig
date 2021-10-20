@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: Add readonly modifier
+dotnet_diagnostic.IDE0044.severity = none
+
+# RCS1169: Make field read-only.
+dotnet_diagnostic.RCS1169.severity = none
